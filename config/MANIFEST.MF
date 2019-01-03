@@ -1,0 +1,5 @@
+Manifest-Version:1.0
+Main-Class: View.home
+Class-Path  . lib/AbsoluteLayout.jar lib/swing-layout-1.0.3.jar lib/mysql-connector-java-5.1.39.bin.jar
+Created-By : IceWee
+
